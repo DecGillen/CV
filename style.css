@@ -27,7 +27,7 @@ ul{
 	display: flex;
 	justify-content:flex-start;
 }
-}
+
 .Work-1 {
 	width: 49%;
 	order: 1;
@@ -58,4 +58,5 @@ ul{
 	flex-direction: column;
 	border:1px #ccc solid;
     padding:10px;
+}
 }
