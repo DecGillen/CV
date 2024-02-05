@@ -18,7 +18,7 @@ ul{
 .important{
 	text-decoration: underline;
 }
-@media(min-width:468px){
+@media(min-width:800px){
 .Container1 {
 	display: flex;
 	justify-content:flex-start;
